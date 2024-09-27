@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units Count="50">
+      <Unit0>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="9"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\CheckParamsU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="168"/>
+        <CursorPos X="24" Y="186"/>
+        <UsageCount Value="30"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\GetPackageVerU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="41" Y="99"/>
+        <UsageCount Value="30"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\GlobalsU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="7"/>
+        <UsageCount Value="30"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\MainU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="194"/>
+        <CursorPos X="32" Y="235"/>
+        <UsageCount Value="30"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\PackageClassU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1775"/>
+        <CursorPos X="44" Y="1801"/>
+        <UsageCount Value="30"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\ProcessDataBaseXmlU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="3" Y="42"/>
+        <UsageCount Value="30"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\ProcessFilesU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="30"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\XmlBaseClassesU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="164"/>
+        <CursorPos X="27" Y="193"/>
+        <UsageCount Value="30"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\PASTOOLS\LogToTempU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="20"/>
+        <UsageCount Value="30"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="D:\CompLib\OmniXml\OmniXML.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="30"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\COMPLIB\XMLParser\v1\LibXmlParser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1242"/>
+        <CursorPos Y="1255"/>
+        <UsageCount Value="30"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\..\PASTOOLS\Win32ToolsU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="625"/>
+        <CursorPos X="58" Y="654"/>
+        <UsageCount Value="28"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\..\TypeLib\WbemScripting_TLB.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1014"/>
+        <CursorPos Y="1022"/>
+        <UsageCount Value="29"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\..\PASTOOLS\DebugHelperU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos Y="43"/>
+        <UsageCount Value="27"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\Delphi\D2007\KnownFolders.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="23"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="D:\CompLib\XMLParser\v2\LibXmlParserU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="137"/>
+        <CursorPos Y="137"/>
+        <UsageCount Value="23"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="tlhelp32.pas"/>
+        <UnitName Value="TlHelp32"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="D:\Lazarus_2_0_2\fpc\3.0.4\source\packages\winceunits\src\tlhelp32.pas"/>
+        <UnitName Value="TlHelp32"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="206"/>
+        <CursorPos X="22" Y="239"/>
+        <UsageCount Value="20"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\..\..\PASTOOLS\Win2000_ImportU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="15" Y="26"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\..\..\PASTOOLS\RegistryApiU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="121"/>
+        <CursorPos X="16" Y="138"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\CompLib\OmniXml\OTextReadWrite.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="225"/>
+        <CursorPos X="10" Y="242"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\Lazarus_2_0_2\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\..\..\PASTOOLS\ServicesU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="368"/>
+        <CursorPos X="56" Y="385"/>
+        <UsageCount Value="11"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="D:\Lazarus_2_0_2\fpc\3.0.4\source\rtl\win\wininc\ascdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="444"/>
+        <CursorPos X="10" Y="460"/>
+        <UsageCount Value="10"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="..\..\..\PASTOOLS\Get_BIOS_InfoU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos Y="106"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\Lazarus_2_0_2\fpc\3.0.4\source\packages\winunits-base\src\activex.pp"/>
+        <UnitName Value="ActiveX"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="12" Y="38"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="D:\Lazarus_2_0_2\fpc\3.0.4\source\packages\winunits-base\src\oleserver.pp"/>
+        <UnitName Value="OleServer"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="9"/>
+        <UsageCount Value="10"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="..\..\..\PASTOOLS\StrUtilsHelperU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="31" Y="46"/>
+        <UsageCount Value="10"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="..\..\..\PASTOOLS\Delphi32ToolsU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="29" Y="87"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="D:\Lazarus_2_0_2\fpc\3.0.4\source\packages\winceunits\src\commctrl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="739"/>
+        <CursorPos X="38" Y="756"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="..\..\..\PASTOOLS\IP_ToolsU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="187"/>
+        <CursorPos X="26" Y="220"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="..\..\..\PASTOOLS\RegistryAccessU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="574"/>
+        <CursorPos X="10" Y="591"/>
+        <UsageCount Value="10"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="..\..\..\PASTOOLS\CmdLineU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="949"/>
+        <CursorPos Y="962"/>
+        <UsageCount Value="11"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="..\..\..\PASTOOLS\pastools.pas"/>
+        <UnitName Value="PasTools"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="37" Y="48"/>
+        <UsageCount Value="10"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="..\..\..\PASTOOLS\BaseType.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="5" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="..\..\..\PASTOOLS\NativeApi_ImportU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="19" Y="14"/>
+        <UsageCount Value="10"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="..\..\..\PASTOOLS\CPU_CountU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="4"/>
+        <UsageCount Value="10"/>
+        <Bookmarks Count="1">
+          <Item0 X="9" Y="371" ID="1"/>
+        </Bookmarks>
+      </Unit37>
+      <Unit38>
+        <Filename Value="..\..\..\PASTOOLS\ConsoleU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="553"/>
+        <CursorPos X="31" Y="565"/>
+        <UsageCount Value="10"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="D:\Lazarus_2_0_6\fpc\3.0.4\source\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="24"/>
+        <UsageCount Value="10"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="D:\Lazarus_2_0_6\fpc\3.0.4\source\rtl\win\wininc\struct.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1019"/>
+        <CursorPos X="6" Y="1034"/>
+        <UsageCount Value="10"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="D:\Lazarus_2_0_6\fpc\3.0.4\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="D:\Lazarus_2_0_6\fpc\3.0.4\source\packages\winunits-base\src\activex.pp"/>
+        <UnitName Value="ActiveX"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4472"/>
+        <CursorPos X="12" Y="4486"/>
+        <UsageCount Value="10"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="..\ConsoleOutputU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="7"/>
+        <UsageCount Value="10"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="..\..\..\PASTOOLS\ImageHlpU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="..\..\..\PASTOOLS\SMBIOS_U.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <Bookmarks Count="1">
+          <Item0 Y="4048" ID="1"/>
+        </Bookmarks>
+      </Unit45>
+      <Unit46>
+        <Filename Value="..\..\..\PASTOOLS\LazarusShellImageListU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="..\..\..\PASTOOLS\DeviceViewerU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="178"/>
+        <CursorPos X="22" Y="202"/>
+        <UsageCount Value="10"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="D:\CompLib\OmniXml\OWideSupp.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1233"/>
+        <CursorPos X="52" Y="1249"/>
+        <UsageCount Value="10"/>
+      </Unit48>
+      <Unit49>
+        <Filename Value="..\..\..\PASTOOLS\Delphi_T.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="15"/>
+        <UsageCount Value="10"/>
+      </Unit49>
+    </Units>
+    <OtherDefines Count="1">
+      <Define0 Value="CONSOLEAPP"/>
+    </OtherDefines>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="28" Column="15"/>
+      </Position1>
+      <Position2>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="14" Column="25"/>
+      </Position2>
+      <Position3>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="15" Column="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="18"/>
+      </Position4>
+      <Position5>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="19" Column="2"/>
+      </Position5>
+      <Position6>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="16"/>
+      </Position6>
+      <Position7>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="14" Column="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="19" Column="2"/>
+      </Position8>
+      <Position9>
+        <Filename Value="UpdateInstaller.lpr"/>
+        <Caret Line="17" Column="36"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="1" ActiveMode="default">
+        <Mode0 Name="default">
+          <local>
+            <CommandLineParams Value="/unpack d:\Lenovo_UpdateRetriever\L14_Gen1_AMD\database.xml /targetdir d:\Lenovo_UpdateRetriever_Unpacked\L14_Gen1_AMD_FPC /verbose /logdir c:\temp"/>
+          </local>
+        </Mode0>
+      </Modes>
+    </RunParams>
+    <HistoryLists Count="2">
+      <List0 Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List0>
+      <List1 Name="CommandLineParameters" Count="2">
+        <Item1 Value="/unpack d:\Lenovo_UpdateRetriever\L14_Gen1_AMD\database.xml /targetdir d:\Lenovo_UpdateRetriever_Unpacked\L14_Gen1_AMD_FPC /verbose /logdir c:\temp"/>
+        <Item2 Value="/install D:\Lenovo_UpdateRetriever\T460_Win81\database.xml /logdir c:\temp /workdir c:\temp\LI /verbose /debug"/>
+      </List1>
+    </HistoryLists>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="FDescription"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
